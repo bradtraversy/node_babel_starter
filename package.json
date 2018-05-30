@@ -1,0 +1,19 @@
+{
+  "name": "node_babel_starter",
+  "version": "1.0.0",
+  "description": "Simple node/express server that uses Babel",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js --exec babel-node --presets env"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^1.17.5"
+  }
+}
