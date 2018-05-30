@@ -1,6 +1,6 @@
 # Node-Babel Starter Pack
 
-> A Simple node.js/Express server that uses Babel and Nodemon. Babel allows you to use the ES Module syntax (import) on the backend.
+> A Simple node.js/express server that uses babel and babel-watch. Babel allows you to use the ES Module syntax (import) on the backend.
 
 ## Quick Start
 
